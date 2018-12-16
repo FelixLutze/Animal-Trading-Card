@@ -1,0 +1,62 @@
+/* class selector */
+.container {
+    font-family: sans-serif;
+    width: 340px;
+    text-align: left;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid  #bfbfbf;
+    border-radius: 8px;
+    font-size: 0.8em;
+    box-shadow: 5px 10px #e6e6e6;
+}
+
+.header-and-picture {
+    padding: 0 20px
+}
+
+.containing-text {
+    margin: 10px 20px;
+    border: 1px solid  #bfbfbf;
+    border-radius: 8px;
+}
+
+.containing-text p, li {
+    padding: 0 10px;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+/* type selector */
+
+img {
+    border-radius: 8px
+}
+
+ul {
+    padding-left: 0
+}
+
+ul {
+    list-style: none;
+}
+
+ul li span {
+    font-weight: bold;
+}
+
+
+/* Hover over "list items" */
+
+a:link {
+    color: black; 
+    text-decoration: none
+}
+a:visited {
+    color: black
+}
+a:hover {
+    text-shadow: 2px 2px #e6e6e6
+}
