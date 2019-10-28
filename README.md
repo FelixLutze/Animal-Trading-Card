@@ -1,5 +1,5 @@
 # Animal-Trading-Card
-Animal trading card. Written in HTML and CSS
+This Project is representing an essential Animal Trading Card.
 
 ## Getting Started
-Try it out on https://dev.felixlutze.net/animal-trading-card
+Take a look at https://dev.felixlutze.net/animal-trading-card
